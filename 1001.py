@@ -1,7 +1,7 @@
-n1 = int(input())
+A = int(input())
 
-n2 = int(input())
+B = int(input())
 
-soma = (n1+n2)
+X = (A+B)
 
-print("X =" ,soma) 
+print("X =" ,X)
